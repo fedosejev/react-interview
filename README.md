@@ -1,6 +1,25 @@
-# React Interview
+# React Interview Challenge
 
-Build a shopping list.
+Build a shopping list web app.
+
+## User interface
+
+### Home page:
+
+![Web app UI mockup for home page](ReactInterviewWebAppUIMockup_HomePage.png)
+
+#### UI elements:
++ Top navigation with links to `Home` and `New` pages. `Home` is highlighted.
++ List of shopping items on the left. Each item has `Delete` button that removes that item from the list.
++ Form for adding a new shopping list item on the right.
+
+### New Item page:
+
+![Web app UI mockup for new item page](ReactInterviewWebAppUIMockup_NewPage.png)
+
+#### UI elements:
++ Top navigation with links to `Home` and `New` pages. `New` is highlighted.
++ Form for adding a new shopping list item in the center of the page.
 
 ## Requirements
 
@@ -89,3 +108,7 @@ Response example:
 ## Notes
 
 Put your solution on GitHub and send a link to the repository. Make sure you can start your application from the `master` branch.
+
+## Author
+
+[Artemij Fedosejev](http://artemij.com)
