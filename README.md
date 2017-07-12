@@ -1,6 +1,6 @@
 # React Interview Challenge
 
-Build a shopping list web app.
+Build a shopping list web app with React.
 
 ## User interface
 
