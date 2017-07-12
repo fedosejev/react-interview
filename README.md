@@ -86,6 +86,6 @@ Response example:
 
 + Assume that the API uses standart HTTP reponse codes for success and failure.
 
-### Notes
+## Notes
 
 Put your solution on GitHub and send a link to the repository. Make sure you can start your application from the `master` branch.
