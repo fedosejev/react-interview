@@ -23,11 +23,12 @@ Build a shopping list web app with React.
 
 ## Requirements
 
-+ User must be able to view all items, add a new item and delete any item in the list.
++ User must be able to: 1) view all items, 2) add a new item and 3) delete any item in the list.
 + Use [Create React App](https://github.com/facebookincubator/create-react-app) to create your React app.
-+ Use Redux to manage your application's state.
-+ Use React Router for routing.
-+ Write at least one unit test for React component, action creator function and reducer. Use Jest.
++ Use [Redux](http://redux.js.org/docs/introduction/) to manage your application's state.
++ Use [React Router](https://reacttraining.com/react-router/) for routing.
++ Use ES2016.
++ Write at least one unit test for React component, action creator function and reducer. Use [Jest](https://facebook.github.io/jest/).
 + Use Sass for styling.
 
 ## Specification
